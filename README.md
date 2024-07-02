@@ -8,3 +8,5 @@ Para ejecutar el sistema, debes poner:
 
 Sistema de Registro 2
 - HACIENDO PRUEBA PARA TOMAR NOTA
+
+-Viendo que pasa si no hago commit
